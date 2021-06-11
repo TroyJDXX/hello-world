@@ -1,5 +1,6 @@
 # This workflow will do a clean install of node dependencies, build the source code and run tests across different versions of node
 # For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
+# cron: '5 22,4,10 * * *'
 
 name: jd_fruit
 
@@ -7,7 +8,7 @@ on:
   # push:
   workflow_dispatch:
   schedule:
-    - cron: '5 22,4,10 * * *'
+    - cron: '5 0 * * *'
   # watch:
   #   types: started
   repository_dispatch:
