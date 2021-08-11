@@ -1,3 +1,3 @@
-# hello-world
-just a repository<br>
-different from main branch
+# Hello-World
+Just A Repository<br>
+Different From Main Branch
