@@ -1,7 +1,7 @@
-http=106.52.127.71:19931, over-tls=false, fast-open=false, udp-relay=false, tag=网易云音乐1
-http=106.52.127.72:19951, over-tls=false, fast-open=false, udp-relay=false, tag=网易云音乐2
-http=aimer.one:3333,fast-open=false, udp-relay=false, tag=网易云音乐3
-http=block4music.poetyin.me:39000, over-tls=false, fast-open=false, udp-relay=false, tag=网易云音乐4
-http=3music.poetyin.me:100, over-tls=false, fast-open=false, udp-relay=false, tag=网易云音乐5
-http=music.lolico.me:39000, over-tls=false, fast-open=false, udp-relay=false, tag=网易云音乐6
-http=taron.top:100, over-tls=false, fast-open=false, udp-relay=false, tag=网易云音乐7
+http=music.lolico.me:39000, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 1
+shadowsocks=MUSIC.DESPERADOJ.COM:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 2
+shadowsocks=MUSIC.DESPERADOJ.COM:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 3
+http=101.132.79.113:23333, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 4
+http=MUSIC.GRIOUGES.CN:39000, over-tls=false, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 5
+http=1.116.214.16:19980, over-tls=false, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 6
+http=SALVAN.ICU:19980, over-tls=false, fast-open=false, udp-relay=false, tag=NeteaseMusic Unlock 7
