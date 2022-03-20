@@ -27,12 +27,19 @@ proxies:
   type: http
   server: 101.43.183.6
   port: 8080
+- name: 🎶 解锁
+  type: ss
+  server: music.desperadoj.com
+  port: 30001
+  cipher: aes-128-gcm
+  password: desperadoj.com_free_proxy_d39m
 
 proxy-groups:
 - name: "Netease Music"
   type: select
   proxies: 
     - UnblockMusic
+    - 🎶 解锁
     - DIRECT
 
 rules:
