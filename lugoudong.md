@@ -15,7 +15,7 @@
   * 关于失效问题：只关注整点推送的『**CK顺序调试工具**』，禁用表示**ck失效需要更新**。
   * 另外本群涉及内容只是学习交流，**无任何盈利**，若侵权或涉及损害利益请联系删除。
 ## CK获取
-  * 用alook浏览器登录[bean.m.jd.com](bean.m.jd.com)，手机验证码登录自己的手机号。  
+  * 用[Alook](https://dl.coolapk.com/down?pn=alook.browser&id=MjY3NjA3&h=4ebeef63r935e2&from=click)浏览器登录[bean.m.jd.com](bean.m.jd.com)，手机验证码登录自己的手机号。  
   * 长按右下角小屋子==>开发者工具==>cookie（简称CK）==>拷贝后编辑成： \
     pt_key=xxxxxxxxx;pt_pin=xxxxxx; \
     这样的格式 （双击自己的信息，然后长摁，就可以选取有用信息啦。CK两个分号都不要少，第一个分号后不要有回车，也不要有空格，直接跟pt_pin，注意是英文的分号）
