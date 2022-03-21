@@ -2,7 +2,7 @@
 ### [加入事业部](#加入事业部)
 ### [须知](#须知)
 ### [CK获取](#CK获取)
-### [WSKEY获取](#WSKEY 获取)
+### [WSKEY获取](#WSKEY获取)
 ## 加入事业部
    [撸狗东事业部扫码加入](https://www.aliyundrive.com/s/Rjk2GMReEm9)
 ## 须知
