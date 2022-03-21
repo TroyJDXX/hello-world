@@ -2,7 +2,7 @@
 ### [加入事业部](#加入事业部)
 ### [须知](#须知)
 ### [CK获取](#CK获取)
-### [WSKEY获取](#WSKEY获取)
+### [WSKEY获取](#WSKEY 获取)
 ## 加入事业部
    [撸狗东事业部扫码加入](https://www.aliyundrive.com/s/Rjk2GMReEm9)
 ## 须知
@@ -20,7 +20,7 @@
     pt_key=xxxxxxxxx;pt_pin=xxxxxx; \
     这样的格式 （双击自己的信息，然后长摁，就可以选取有用信息啦。CK两个分号都不要少，第一个分号后不要有回车，也不要有空格，直接跟pt_pin，注意是英文的分号）
   * 注：大家平时不要随意登录或者退出那个浏览器的账号（不更新CK）
-## 获取WSKEY
+## WSKEY 获取
   * ### 安卓
     * [文字教程](https://blog.csdn.net/u012954039/article/details/120178959)
     * [视频教程](https://www.aliyundrive.com/s/71X7xPFnKfr)
