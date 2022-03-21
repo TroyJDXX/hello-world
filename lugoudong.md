@@ -21,13 +21,13 @@
   * 本群涉及内容只是学习交流，**无任何盈利**，若侵权或涉及损害利益请联系删除。
 ## 豆豆拿来
   * 消息推送都在这里
-## CK 获取
+## CK获取
   * 用[Alook](https://dl.coolapk.com/down?pn=alook.browser&id=MjY3NjA3&h=4ebeef63r935e2&from=click)（ios 直接去 App Store 搜）浏览器登录[bean.m.jd.com](bean.m.jd.com)，手机验证码登录自己的手机号。  
   * 长按右下角小屋子==>开发者工具==>cookie（简称CK）==>拷贝后编辑成： \
     pt_key=xxxxxxxxx;pt_pin=xxxxxx; \
     这样的格式 （双击自己的信息，然后长摁，就可以选取有用信息啦。CK两个分号都不要少，第一个分号后不要有回车，也不要有空格，直接跟pt_pin，注意是英文的分号）
   * 注：登录后不要随意退出那个浏览器的账号（不更新 CK ）
-## WSKEY 获取
+## WSKEY获取
   * 格式：pin=xxx;wskey=xxx;
     * pin 就是之前 ck 后面的 pt_pin
     * 注意分号 不要用中文分号!
@@ -39,7 +39,7 @@
     * [文字教程](https://www.azurew.com/%E8%BF%90%E7%BB%B4%E5%B7%A5%E5%85%B7/8528.html)
     * [视频教程](https://www.aliyundrive.com/s/3CVKmxEBHjX)
   * 注：Wskey，如果在京东 app 里退出当前登录的账户就会失效，如果同一个设备要反复抓不同账号的，请卸载 app 重新下载
-### CK 与 WSKEY
+### CK与WSKEY
   * wskey：手机客户端的签名，所以只要app当前登陆不退出，该账号的 wskey 就不会失效（所以当前账号退出 app 就失效）。wskey 用于自动更新 ck，避免每月都得验证码手动获取。因为 wskey 的有效期更久，所以建议大家用此类方法，但因不可抗力原因也可能导致 wskey 失效，因此要重新获取，但一般来说有效期在半年以上。
   * cookie（ck）：网页端签名，验证码登陆其有效期为一个月（如果退出也会失效）。因此此类方式得定期重新获取，如果（不会搞/懒得搞）wskey，就用这种老的方式。
   * 有效性：wskey 在半年左右，ck 为 30 天（ck 使用者注意更新 30 后及时更新ck）。
