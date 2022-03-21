@@ -22,7 +22,7 @@
 ## 豆豆拿来
   * 消息推送都在这里
 ## CK获取
-  * 用[Alook](https://dl.coolapk.com/down?pn=alook.browser&id=MjY3NjA3&h=4ebeef63r935e2&from=click)（ios 直接去 App Store 搜）浏览器登录[bean.m.jd.com](bean.m.jd.com)，手机验证码登录自己的手机号。  
+  * 用[Alook](https://dl.coolapk.com/down?pn=alook.browser&id=MjY3NjA3&h=4ebeef63r935e2&from=click)（ios 直接去 App Store 搜）浏览器地址栏输入 bean.m.jd.com，手机验证码登录自己的手机号。  
   * 长按右下角小屋子==>开发者工具==>cookie（简称CK）==>拷贝后编辑成： \
     pt_key=xxxxxxxxx;pt_pin=xxxxxx; \
     这样的格式 （双击自己的信息，然后长摁，就可以选取有用信息啦。CK两个分号都不要少，第一个分号后不要有回车，也不要有空格，直接跟pt_pin，注意是英文的分号）
