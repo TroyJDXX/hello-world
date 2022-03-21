@@ -21,7 +21,7 @@
   * ck 或 wskey 选**一种方式即可**，不会就换另一种。
   * 本群涉及内容只是学习交流，**无任何盈利**，若侵权或涉及损害利益请联系删除。
 ## 豆豆拿来
-  消息推送都在这里
+  * 消息推送都在这里
 ## CK 获取
   * 用[Alook](https://dl.coolapk.com/down?pn=alook.browser&id=MjY3NjA3&h=4ebeef63r935e2&from=click)（ios 直接去 App Store 搜）浏览器登录[bean.m.jd.com](bean.m.jd.com)，手机验证码登录自己的手机号。  
   * 长按右下角小屋子==>开发者工具==>cookie（简称CK）==>拷贝后编辑成： \
