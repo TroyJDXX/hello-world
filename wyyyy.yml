@@ -23,10 +23,6 @@ dns:
 
 
 proxies:
-- name: "UnblockMusic"
-  type: http
-  server: 101.43.183.6
-  port: 8080
 - name: 🎶 解锁
   type: ss
   server: music.desperadoj.com
@@ -38,7 +34,6 @@ proxy-groups:
 - name: "Netease Music"
   type: select
   proxies: 
-    - UnblockMusic
     - 🎶 解锁
     - DIRECT
 
